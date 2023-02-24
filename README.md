@@ -7,6 +7,6 @@
 How to start a project:
 
 1. npm install
-2. cd frontend && npm install
+2. cd frontend && npm install or cd frontend && yarn
 3. cd ..
 4. npm run dev
